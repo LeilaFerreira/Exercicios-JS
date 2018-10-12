@@ -1,2 +1,2 @@
 # Exercicios-JS
-Exercicios JS Desprograme
+Exercicios JavaScript Desprograme
